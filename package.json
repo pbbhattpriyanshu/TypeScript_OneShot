@@ -1,0 +1,24 @@
+{
+  "name": "typescript_oneshot",
+  "version": "1.0.0",
+  "description": "This is tsc tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbbhattpriyanshu/TypeScript_OneShot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pbbhattpriyanshu/TypeScript_OneShot/issues"
+  },
+  "homepage": "https://github.com/pbbhattpriyanshu/TypeScript_OneShot#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
